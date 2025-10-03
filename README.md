@@ -14,7 +14,7 @@ The app takes sales data from the first two months and forecasts sales for the t
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 Example dataset (`sales.csv`):
 
